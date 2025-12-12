@@ -1,2 +1,3 @@
-# gta-real-estate-map
-A stylish, interactive GTA V real-estate website featuring a hover-to-view pricing map, zoomable regions, and a built-in ticket form for property inquiries. Designed to feel like browsing a real housing market inside Los Santos.
+# GTA V Real Estate Map
+Interactive Los Santos property map for fun roleplay.
+Hover over areas to see prices. Click to submit a ticket.
